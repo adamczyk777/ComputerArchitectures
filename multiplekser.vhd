@@ -2,7 +2,7 @@ entity multiplekser is
     port(
         wy: out std_logic; -- wysjcie multipleksera
         we: in std_logic_vector(0 to 3); -- wejscia multipleksera
-        addr: in std_logic_vector(1 downto 0); -- szyna adresowa
+        addr: in std_logic_vector(1 downto 0) -- szyna adresowa
     );
 end multiplekser;
 
