@@ -1,1 +1,2 @@
-# VHDL na architektury :D
+# Course excercises Computer Architectures @ AGH UST
+Mainly \*.vhdl files with some processors or graphics cards etc...
